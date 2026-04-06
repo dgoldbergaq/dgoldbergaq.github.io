@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Advancing air quality science using satellite data and models"
+title: "Advancing air quality science using satellite data"
 author_profile: true
 redirect_from: 
   - /about/
