@@ -1,5 +1,5 @@
 ---
-title: "PubH 3105: Sutainable Energy and Environmental Health"
+title: "PubH 3150: Sutainable Energy and Environmental Health"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2015-spring-teaching-1
