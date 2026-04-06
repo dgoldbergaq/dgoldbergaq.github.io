@@ -1,11 +1,6 @@
 ---
-title: "PubH 3150: Sutainable Energy and Environmental Health"
-collection: teaching
-type: "Undergraduate course"
-permalink: /teaching/2026-spring-teaching-1
-venue: "George Washington Univeristy, School of Public Health"
-date: 2026-01-01
-location: "Washingon, DC"
+title: "Publications"
+permalink: /publications/
 ---
 
 - [Zero-emissions vehicle adoption and satellite-measured NO2 air pollution in California, USA, from 2019 to 2023: a longitudinal observational study](https://www.sciencedirect.com/science/article/pii/S254251962600001X) – *The Lancet Planetary Health*, 2026
