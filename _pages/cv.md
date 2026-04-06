@@ -14,7 +14,7 @@ Education
 * Postdoc in the Energy Systems Division, Argonne National Labroatory, Completed May 2019
 * Ph.D in Atmospheric Science, University of Maryland, Completed Dec 2015
 * M.S. in Atmospheric Science, University of Maryland, Completed May 2013
-* B.S. in Chemical Engineering & minor Environmnetal Science, Lafayette College, Completed May 2009
+* B.S. in Chemical Engineering & minor Environmental Science, Lafayette College, Completed May 2009
 
 Work experience
 ======
