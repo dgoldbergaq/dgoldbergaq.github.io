@@ -1,8 +1,10 @@
 ---
 title: "Publications"
-layout: publication
+layout: archive
 permalink: /publications/
 ---
+
+#Publications
 
 - [Global NO2 changes between 2019 and 2024 as observed by TROPOMI in urban areas and emerging hotspots](https://acp.copernicus.org/articles/26/3783/2026/) – *Atmospheric Chemistry and Physics*, 2026
 - [Zero-emissions vehicle adoption and satellite-measured NO2 air pollution in California, USA, from 2019 to 2023: a longitudinal observational study](https://www.sciencedirect.com/science/article/pii/S254251962600001X) – *The Lancet Planetary Health*, 2026
