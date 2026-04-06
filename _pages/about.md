@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Using satellite data to study air quality and emissions"
+title: "Advancing air quality science using satellite data and models"
 author_profile: true
 redirect_from: 
   - /about/
