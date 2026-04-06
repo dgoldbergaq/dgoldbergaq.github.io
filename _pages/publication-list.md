@@ -1,11 +1,11 @@
 ---
 title: "Publications"
-layout: archive
+layout: publication
 permalink: /publications/
 ---
 
-- [Zero-emissions vehicle adoption and satellite-measured NO2 air pollution in California, USA, from 2019 to 2023: a longitudinal observational study](https://www.sciencedirect.com/science/article/pii/S254251962600001X) – *The Lancet Planetary Health*, 2026
 - [Global NO2 changes between 2019 and 2024 as observed by TROPOMI in urban areas and emerging hotspots](https://acp.copernicus.org/articles/26/3783/2026/) – *Atmospheric Chemistry and Physics*, 2026
+- [Zero-emissions vehicle adoption and satellite-measured NO2 air pollution in California, USA, from 2019 to 2023: a longitudinal observational study](https://www.sciencedirect.com/science/article/pii/S254251962600001X) – *The Lancet Planetary Health*, 2026
 - [Tropospheric NO2 patterns in eastern Canada using the first year of TEMPO observations](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025JD044757) – *Journal of Geophysical Research: Atmospheres*, 2025
 - [Clear-sky and cloudy-sky differences in NO2 concentrations over the United States: implications for satellite measurement applications](https://acp.copernicus.org/articles/25/16287/2025/) – *Atmospheric Chemistry and Physics*, 2025
 - [Global, regional and national estimates of the burden of childhood asthma attributable to NO2 exposure for 204 countries and territories from 1990 to 2023: a Global Burden of Disease study 2023](https://www.sciencedirect.com/science/article/pii/S258953702500001X) – *EClinicalMedicine*, 2025
